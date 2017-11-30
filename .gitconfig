@@ -1,0 +1,12 @@
+[push]
+	default = simple
+[alias]
+	co = checkout
+	st = status
+	ci = commit
+	br = branch
+[user]
+	name = Bruno Leite Alves
+	email = brunoleitealves@gmail.com
+[pull]
+	rebase = true
